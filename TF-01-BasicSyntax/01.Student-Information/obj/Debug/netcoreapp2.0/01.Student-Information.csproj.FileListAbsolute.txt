@@ -1,0 +1,11 @@
+C:\Users\David\Desktop\Soft Uni Recourses\Technology Fundementals 4.0\C#\30. Git and Github\GitBash\TF-01-BasicSyntax\01.Student-Information\bin\Debug\netcoreapp2.0\01.Student-Information.deps.json
+C:\Users\David\Desktop\Soft Uni Recourses\Technology Fundementals 4.0\C#\30. Git and Github\GitBash\TF-01-BasicSyntax\01.Student-Information\bin\Debug\netcoreapp2.0\01.Student-Information.runtimeconfig.json
+C:\Users\David\Desktop\Soft Uni Recourses\Technology Fundementals 4.0\C#\30. Git and Github\GitBash\TF-01-BasicSyntax\01.Student-Information\bin\Debug\netcoreapp2.0\01.Student-Information.runtimeconfig.dev.json
+C:\Users\David\Desktop\Soft Uni Recourses\Technology Fundementals 4.0\C#\30. Git and Github\GitBash\TF-01-BasicSyntax\01.Student-Information\bin\Debug\netcoreapp2.0\01.Student-Information.dll
+C:\Users\David\Desktop\Soft Uni Recourses\Technology Fundementals 4.0\C#\30. Git and Github\GitBash\TF-01-BasicSyntax\01.Student-Information\bin\Debug\netcoreapp2.0\01.Student-Information.pdb
+C:\Users\David\Desktop\Soft Uni Recourses\Technology Fundementals 4.0\C#\30. Git and Github\GitBash\TF-01-BasicSyntax\01.Student-Information\obj\Debug\netcoreapp2.0\01.Student-Information.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Soft Uni Recourses\Technology Fundementals 4.0\C#\30. Git and Github\GitBash\TF-01-BasicSyntax\01.Student-Information\obj\Debug\netcoreapp2.0\01.Student-Information.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Soft Uni Recourses\Technology Fundementals 4.0\C#\30. Git and Github\GitBash\TF-01-BasicSyntax\01.Student-Information\obj\Debug\netcoreapp2.0\01.Student-Information.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Soft Uni Recourses\Technology Fundementals 4.0\C#\30. Git and Github\GitBash\TF-01-BasicSyntax\01.Student-Information\obj\Debug\netcoreapp2.0\01.Student-Information.AssemblyInfo.cs
+C:\Users\David\Desktop\Soft Uni Recourses\Technology Fundementals 4.0\C#\30. Git and Github\GitBash\TF-01-BasicSyntax\01.Student-Information\obj\Debug\netcoreapp2.0\01.Student-Information.dll
+C:\Users\David\Desktop\Soft Uni Recourses\Technology Fundementals 4.0\C#\30. Git and Github\GitBash\TF-01-BasicSyntax\01.Student-Information\obj\Debug\netcoreapp2.0\01.Student-Information.pdb
